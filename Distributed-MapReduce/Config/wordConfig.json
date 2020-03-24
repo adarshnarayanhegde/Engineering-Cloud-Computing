@@ -1,0 +1,6 @@
+{
+        "input_data": "http://www.gutenberg.org/files/78/78-h/78-h.htm",
+        "map_fn":"wordCountMapper",
+        "reduce_fn":"wordCountReducer",
+        "output_location":"wordCount.txt"
+}

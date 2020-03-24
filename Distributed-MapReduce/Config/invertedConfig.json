@@ -1,0 +1,8 @@
+{
+        "input_data": ["http://www.gutenberg.org/files/23218/23218-h/23218-h.htm",
+          "http://www.gutenberg.org/files/19362/19362-h/19362-h.htm",
+          "http://www.gutenberg.org/files/21279/21279-h/21279-h.htm"],
+        "map_fn":"invertedIndexMapper",
+        "reduce_fn":"invertedIndexReducer",
+        "output_location":"invertedIndex.txt"
+}

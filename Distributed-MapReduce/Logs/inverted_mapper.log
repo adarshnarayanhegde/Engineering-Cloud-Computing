@@ -1,0 +1,17 @@
+2019-11-08 23:27:06 - invertedindex_mapper.py - INFO - Inverted Index  Mapper Started...
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Getting Input Data
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Input Data Received
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Waiting for 3 map tasks to complete...
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Process ID for 38893
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Storing Map output from: 38893
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Response from Datastore: STORED
+
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Process ID for 38894
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Storing Map output from: 38894
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Response from Datastore: STORED
+
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Process ID for 38895
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Storing Map output from: 38895
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Response from Datastore: STORED
+
+2019-11-08 23:27:18 - invertedindex_mapper.py - DEBUG - Map Task Completed

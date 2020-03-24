@@ -1,0 +1,25 @@
+2019-11-08 23:27:05 - datastore.py - INFO - Datastore Listening...
+2019-11-08 23:27:17 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54016)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54021)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Returned
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54022)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54023)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54024)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54025)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Splitting and shuffling inverted-index mapper output
+2019-11-08 23:27:18 - datastore.py - DEBUG - Splitting and shuffling done
+2019-11-08 23:27:18 - datastore.py - DEBUG - Shuffle Data stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54029)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Returned
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54030)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:18 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54031)
+2019-11-08 23:27:18 - datastore.py - DEBUG - Data Successfully Stored
+2019-11-08 23:27:19 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54032)
+2019-11-08 23:27:19 - datastore.py - DEBUG - Data Successfully Returned
+2019-11-08 23:27:19 - datastore.py - DEBUG - Connection from : ('127.0.0.1', 54034)
+2019-11-08 23:27:19 - datastore.py - DEBUG - Backup Completed

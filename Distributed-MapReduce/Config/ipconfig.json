@@ -1,0 +1,14 @@
+{
+        "datastore_ip": "127.0.0.1",
+        "datastore_port": "7000",
+
+        "wordcount_mapper_ip": "127.0.0.1",
+        "wordcount_mapper_port": "7001",
+        "wordcount_reducer_ip": "127.0.0.1",
+        "wordcount_reducer_port": "7002",
+
+        "inverted_mapper_ip": "127.0.0.1",
+        "inverted_mapper_port": "7003",
+        "inverted_reducer_ip": "127.0.0.1",
+        "inverted_reducer_port": "7004"
+}

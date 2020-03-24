@@ -1,0 +1,11 @@
+2019-11-08 23:27:06 - invertedindex_reducer.py - INFO - Inverted Index Reducer Started...
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Getting Input Data
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Input Data Received
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Waiting for 2 reduce tasks to complete...
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Storing Reduce output from: 38903
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Response from Datastore: STORED
+
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Storing Reduce output from: 38904
+2019-11-08 23:27:18 - invertedindex_reducer.py - DEBUG - Response from Datastore: STORED
+
+2019-11-08 23:27:19 - invertedindex_reducer.py - DEBUG - Reduce Task Completed

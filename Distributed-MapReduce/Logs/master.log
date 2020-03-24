@@ -1,0 +1,24 @@
+2019-11-08 23:27:17 - master.py - INFO - Master Spawned
+2019-11-08 23:27:17 - master.py - INFO - Storing input data
+2019-11-08 23:27:17 - connectionpool.py - DEBUG - Starting new HTTP connection (1): www.gutenberg.org:80
+2019-11-08 23:27:17 - connectionpool.py - DEBUG - http://www.gutenberg.org:80 "GET /files/23218/23218-h/23218-h.htm HTTP/1.1" 200 47501
+2019-11-08 23:27:17 - connectionpool.py - DEBUG - Starting new HTTP connection (1): www.gutenberg.org:80
+2019-11-08 23:27:17 - connectionpool.py - DEBUG - http://www.gutenberg.org:80 "GET /files/19362/19362-h/19362-h.htm HTTP/1.1" 200 56599
+2019-11-08 23:27:17 - connectionpool.py - DEBUG - Starting new HTTP connection (1): www.gutenberg.org:80
+2019-11-08 23:27:18 - connectionpool.py - DEBUG - http://www.gutenberg.org:80 "GET /files/21279/21279-h/21279-h.htm HTTP/1.1" 200 37773
+2019-11-08 23:27:18 - master.py - DEBUG - Response for input storage: STORED
+2019-11-08 23:27:18 - master.py - INFO - Starting Map Task
+2019-11-08 23:27:18 - master.py - DEBUG - RPC Call to Inverted Index Mapper
+2019-11-08 23:27:18 - master.py - DEBUG - Response from Map Task: MAP_DONE
+2019-11-08 23:27:18 - master.py - INFO - Map Task Completed
+2019-11-08 23:27:18 - master.py - INFO - Starting Shuffle Task
+2019-11-08 23:27:18 - master.py - DEBUG - Running Inverted Index Shuffle Task...
+2019-11-08 23:27:18 - master.py - DEBUG - Response from Shuffle Task: STORED
+2019-11-08 23:27:18 - master.py - INFO - Shuffle Task Completed
+2019-11-08 23:27:18 - master.py - INFO - Starting Reduce Task
+2019-11-08 23:27:18 - master.py - DEBUG - RPC Call to Inverted Index Reducer
+2019-11-08 23:27:19 - master.py - DEBUG - Response from Reduce Task: REDUCER_DONE
+2019-11-08 23:27:19 - master.py - INFO - Map-Reduce successfully Completed
+2019-11-08 23:27:19 - master.py - DEBUG - Response from Datastore: BACKUP DONE
+
+2019-11-08 23:27:19 - master.py - DEBUG - Backup Created
